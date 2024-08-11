@@ -8,4 +8,6 @@ Currently in development
 https://www.youtube.com/watch?v=mClaX9dTYlI
 
 
-It uses the library https://github.com/IRLToolkit/simpleobsws/
+It uses the libraries
+https://github.com/IRLToolkit/simpleobsws/
+https://github.com/SpotlightKid/python-rtmidi
